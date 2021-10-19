@@ -156,6 +156,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
 * [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/) Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
+* [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf) - Neil Peterso
 * [How to optimize storage costs using Amazon S3](https://aws.amazon.com/s3/cloud-storage-cost-optimization-ebook/) - AWS (PDF)
 * [Kubernetes Hardening Guidance](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETESHARDENINGGUIDANCE.PDF) - NSA, CISA (PDF)
 * [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf) - Iain Foulds (PDF)
@@ -164,6 +165,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [OpenStack Operations Guide](https://docs.openstack.org/ops-guide/index.html)
 * [Streamline microservice management with Istio Service Mesh](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/) *(account required)*
 * [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
+
 
 
 ### Competitive Programming
